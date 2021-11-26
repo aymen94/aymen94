@@ -11,6 +11,5 @@
 
 Connect with me:  &nbsp; &nbsp;
 [<img alt="gmarini.com" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] &nbsp; &nbsp;
-[<img alt="aymen | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
 
 [website]: http://aymen.xyz/
