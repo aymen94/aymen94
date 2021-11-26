@@ -14,4 +14,3 @@ Connect with me:  &nbsp; &nbsp;
 [<img alt="aymen | LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
 
 [website]: http://aymen.xyz/
-[linkedin]: https://www.linkedin.com/in/aymennaghmouchi
