@@ -8,8 +8,3 @@
 - 📚 Continuous Learner
 - 💻 Open Source Addict
 
-
-Connect with me:  &nbsp; &nbsp;
-[<img alt="gmarini.com" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] &nbsp; &nbsp;
-
-[website]: http://aymen.xyz/
