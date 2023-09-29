@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-### Full Stack Java & JavaScript
+### _Full Stack Java & JavaScript_
 #### Passionate about programming and technology
 - 😁 Enthusiast Programmer
 - 📚 Continuous Learner
